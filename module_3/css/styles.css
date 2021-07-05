@@ -218,8 +218,7 @@ button.navbar-toggle:hover, :focus {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container {
-    background: url('../images/jumbotron_1200.jpg') no-repeat;
-    height: 675px;
+    height: 70px;
   }
 }
 
