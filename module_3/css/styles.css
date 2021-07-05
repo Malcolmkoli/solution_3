@@ -63,10 +63,11 @@ body {
 }
 #collapsable-nav {
   background-color: goldenrod;
+  font-weight: bold;
 }
 .icon-bar {
   border: 1px solid black;
-  
+
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid black;
@@ -160,6 +161,12 @@ button.navbar-toggle:hover, :focus {
   /*color: #fff;*/
   opacity: .8;
   /*border: 1px solid black;*/
+}
+#item-one, #item-two, #item-three {
+  text-align: center;
+  color: black;
+  font-style: normal;
+  font-weight: bold;
 }
 /* END HOME PAGE */
 
